@@ -1,0 +1,7 @@
+THIẾT KẾ FIGMA / DESIGN DIRECTION
+
+Bản thiết kế được thể hiện trực tiếp trong giao diện HTML/CSS của bài tập với hướng visual: editorial portfolio, nền paper, xanh mực và cam san hô.
+
+Wireframe gồm: Header sticky -> Hero -> Giới thiệu -> Kỹ năng -> Dự án -> Timeline -> Bài viết -> Liên hệ -> Footer.
+
+Gợi ý nộp bài: mở file html/index.html trên trình duyệt, chụp ảnh giao diện làm bản export thiết kế nếu giảng viên yêu cầu ảnh Figma.
